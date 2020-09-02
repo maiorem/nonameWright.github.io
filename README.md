@@ -1,2 +1,2 @@
-# maiorem.github.io
+# nonameWright.github.io
 블로그
